@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Gautam</h1>
+<h1 align="center">Hey <img src="Hi.gif" width="40px" />, I'm Gautam</h1>
 <h3 align="center">I'm an entrepreneur, student and a Data Science enthusiast </h3>
 
 - 🔭 My current projects include [Findr](https://findrapp.ca/), Fixit, Codify and Dathena.
