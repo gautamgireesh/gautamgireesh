@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="Hi.gif" width="40px" />, I'm Gautam Gireesh</h1>
+<h1 align="center">Hey <img src="Hi.gif" width="40px" /> I'm Gautam Gireesh</h1>
 <h3 align="center">Full Stack Developer focussing in Mobile/Web application development </h3>
 
 - 🔭 I've worked using the MERN stack to build cross platform scalable application that are currently available on the app store.
