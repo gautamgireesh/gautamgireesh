@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">Hey, I'm Gautam</h1>
+<h3 align="center">I'm an entrepreneur, student and a Data Science enthusiast </h3>
 
-<!--
-**gautamgireesh/gautamgireesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 My current projects include [Findr](https://findrapp.ca/), Fixit, Codify and Dathena.
 
-Here are some ideas to get you started:
+- 🌱 Most of the projects I have worked on are using private repositories (yeah, bummer!). Contact me, if you want more information about them
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I'm currently learning to build models for **audio processing** for an upcoming project in March.
+
+- 💬 Ask me about **Machine Learning, Data Analysis** and maybe some **React** but go easy on that last one!
+
+- ⚡ What else... ah, yes, my favorite band is either Bastille or RHCP (I just can't choose.)
+
+### Social
+Almost forgot.. you can connect with me through [email](harsh.jhunjhunwala@mail.utoronto.ca) or my [LinkedIn](https://www.linkedin.com/in/harsh-jhunjhunwala/).
+
+
+
+
+
+<hr />
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gautamgireesh&show_icons=true&theme=radical&hide_border=true">
+  <br/>
+    <br />
+  <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=gautamgireesh&layout=compact&show_icons=true&theme=radical&hide_border=true" />
+  <br/>
+   <br/>
+  <small>Languages used in my public repos - I *love* Jupyter 😛</small>
+</div>
