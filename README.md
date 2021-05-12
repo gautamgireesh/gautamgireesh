@@ -3,8 +3,6 @@
 
 - 🔭 I've worked using the MERN stack to build cross platform scalable application that are currently available on the app store.
 
-- 🌱 Currently looking for PEY/co-op 12 month internships in the software engineering field to challenge myself and improve my skillset.
-
 - ⚡ I'm musically inclined with a keen interest in guitar and music production. I'd love to talk about music or conspiracy theories anytime of the day :)
 
 ### Social
