@@ -11,11 +11,6 @@ If you'd like to connect with me, feel free to reach me on my [email](gautam.gir
 <hr />
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gautamgireesh&show_icons=true&theme=radical&hide_border=true">
-  <br/>
-    <br />
-  <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=gautamgireesh&layout=compact&show_icons=true&theme=radical&hide_border=true" />
-  <br/>
-   <br/>
 </div>
 
 ### Languages and Tools:
